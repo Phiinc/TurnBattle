@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//キャラクターを管理
+//キャラクターを管理.
 public class UnitManager : MonoBehaviour
 {
     //Status
